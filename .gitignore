@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# Data files
+*.csv
+*.json
+
+# macOS system files
+.DS_Store
